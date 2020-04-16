@@ -19,7 +19,7 @@ ______________________________________________
 
 ## Creating a version-controlled R-Project with Github
 
-Download repository here: https://github.com/garberadamc/SEM-Lab2
+Download repository here: https://github.com/garberadamc/SEM-Lab3
 
 On the Github repository webpage:
 
